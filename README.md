@@ -1,6 +1,6 @@
 ![Header](https://github.com/KlausAlGhul/klausalghul/blob/main/Materials/kenan5.png)
 
-# Web Devolper
+# Web Developer
 
 ### Languages and Tools:
 
