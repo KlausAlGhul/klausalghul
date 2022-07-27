@@ -2,6 +2,25 @@
 
 # Web Developer
 
+* Creation of a website of any complexity
+* Creation of architecture, code optimization
+* Site layout and installation on CMS
+* Development of plugins and parsers 
+* Making changes and improvements to working sites (expanding functionality, correcting errors)
+* Filling content
+
+## Achievements
+
+
+* Increased the loading time of the site pages from 1.41 to 0.87 seconds
+
+## Site examples
+
+   http://sport-av.ru
+
+   http://neopark.info
+
+   https://www.russianfood.com/
 
 ### Languages and Tools:
 
