@@ -1,6 +1,6 @@
 ![Header](https://github.com/KlausAlGhul/klausalghul/blob/main/Materials/kenan5.png)
 
-# Hello i am Web Devolper
+# Web Devolper
 
 ### Languages and Tools:
 
@@ -14,6 +14,5 @@
 ![REACT](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=REact)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-black?style=for-the-badge&logo=WORDPRESS)
 
-[![Kenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=klausalghul&theme=dark)]
+![Kenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=klausalghul&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klausalghul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
