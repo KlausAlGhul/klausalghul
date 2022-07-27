@@ -9,4 +9,5 @@ Hello
 ![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=SASS)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-black?style=for-the-badge&logo=BOOTSTRAP)
 ![JS](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=JavaScript)
-
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jQuery&logoColor=03c6fc)
+![REACT](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=REact)
