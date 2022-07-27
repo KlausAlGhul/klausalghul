@@ -1,6 +1,7 @@
-![Header](https://github.com/KlausAlGhul/klausalghul/blob/main/Materials/kenan5.png)
+![Header](https://github.com/KlausAlGhul/klausalghul/blob/main/Materials/kenan7.png)
 
 # Web Developer
+
 
 ### Languages and Tools:
 
