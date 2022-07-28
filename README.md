@@ -2,7 +2,7 @@
 
 # Web Developer
 
-* Creation of a website of any complexity
+* Creation a website of any complexity
 * Creation of architecture, code optimization
 * Site layout and installation on CMS
 * Development of plugins and parsers 
