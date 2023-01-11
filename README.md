@@ -1,6 +1,5 @@
 [![Header](https://github.com/KlausAlGhul/klausalghul/blob/main/Materials/kenan9.png)](https://kanan-hajiyev.site/)
 
-                                             ↑ Click to visit my website ↑
 
 # Web Developer
 
