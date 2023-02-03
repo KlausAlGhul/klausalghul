@@ -12,7 +12,11 @@
 
 ## Achievements
 
+<<<<<<< HEAD
 [!(https://www.codewars.com/users/KlausAlGhul/badges/large)](https://kanan-hajiyev.site/)
+=======
+https://www.codewars.com/users/KlausAlGhul/badges/large
+>>>>>>> 69848c580cc1ca4a2799f0bc14a121ccc90d1022
 * Increased the loading time of the site pages from 1.41 to 0.87 seconds
 
 ## Site examples
