@@ -18,9 +18,9 @@
 
 ## Site examples
 
+   http://neopark.site
+   
    http://sport-av.ru
-
-   http://neopark.info
 
    https://www.russianfood.com/
 
